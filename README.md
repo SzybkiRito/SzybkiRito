@@ -1,16 +1,15 @@
-### Hi there 👋
+# 🏄‍♂️ SzybkiRito
 
-<!--
-**SzybkiRito/SzybkiRito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Flutter Developer`**
 
-Here are some ideas to get you started:
+👋 Hi there! I'm Mateusz Jakubczak, a passionate Flutter developer currently pursuing my studies at the Warsaw School of Computer Science. By day, I'm busy crafting beautiful and functional mobile apps with Flutter, but my love for coding extends beyond mobile development. I also enjoy diving into web development, tinkering with technologies like JavaScript and Vue 3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 I'm on the lookout for exciting job opportunities to further grow and contribute to the tech world. Feel free to explore my repositories and get in touch if you're interested in collaborating or want to chat about all things tech.
+
+📫 You can reach me at *jakubczakmateusz23@gmail.com* or connect with me on <a href="https://www.linkedin.com/in/mateusz-jakubczak-1073591b9/" target="blank">LinkedIn</a> and I'd love to hear from you!
+
+Let's code and innovate together! 🚀
+
+### 📊 Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szybkirito&show_icons=true&locale=en&layout=compact" alt="szybkirito_stats" /></p>
