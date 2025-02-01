@@ -1,8 +1,8 @@
 # 🏄‍♂️ SzybkiRito
 
-**`Flutter Developer`**
+**`Fullstack Developer`**
 
-👋 Hi there! I'm Mateusz Jakubczak, a passionate Flutter developer currently pursuing my studies at the Warsaw School of Computer Science. By day, I'm busy crafting beautiful and functional mobile apps with Flutter, but my love for coding extends beyond mobile development. I also enjoy diving into web development, tinkering with technologies like JavaScript and Vue 3.
+👋 Hi there! I'm Mateusz Jakubczak, a passionate developer currently pursuing my studies at the Warsaw School of Computer Science and working fulltime as Junior Fullstack Developer with Symfony & Vue
 
 🌟 I'm on the lookout for exciting job opportunities to further grow and contribute to the tech world. Feel free to explore my repositories and get in touch if you're interested in collaborating or want to chat about all things tech.
 
